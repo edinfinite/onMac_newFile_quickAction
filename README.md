@@ -48,7 +48,7 @@ Automator extension to create a new file with right-click (Mac).
    - Find your Quick Action under `General` or the appropriate section.
    - Click on `add shortcut` next to it and assign your desired key combination.
 
-For example, you can use `Ctrl + Option + Command + N` as your shortcut.
+For example, you can use `Ctrl + Option + Command + L` as your shortcut. *Remeber need to be in a folder for this to work*
 
 ### Usage
 
